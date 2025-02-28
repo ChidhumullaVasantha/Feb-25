@@ -19,6 +19,7 @@ export default function Login() {
   <div className="container-fluid">
     <div className="row">
       <div className="col-sm-6 text-black">
+        
 
         <div className="px-5 ms-xl-4">
           <i className="fas fa-crow fa-2x me-3 pt-5 mt-xl-4"bg-image-vertical="color: #709085;"></i>
